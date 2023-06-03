@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "970681315746",
+    "firebase_url": "https://gpspro-c3647.firebaseio.com",
+    "project_id": "gpspro-c3647",
+    "storage_bucket": "gpspro-c3647.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970681315746:android:a71658468fbd55811702fb",
+        "android_client_info": {
+          "package_name": "com.gennissi.gpspro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970681315746-h9o9g46vun7knmmliqr50pt4fvpht577.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJYyEpieBw3XZa5xH0WFLbx8SQsFfLjGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970681315746-h9o9g46vun7knmmliqr50pt4fvpht577.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
