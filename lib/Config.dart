@@ -1,7 +1,7 @@
 const String SERVER_URL = "http://demo.traccar.org";
 const String PURCHASE_CODE = "";
 
-const APP_NAME = "Gennissi";
+const APP_NAME = "Revtech Mobile 2.0";
 const TERMS_AND_CONDITIONS ="https://gennissi.com/terms.html";
 const PRIVACY_POLICY ="https://gennissi.com/privacy.html";
 const CONTACT_US ="https://gennissi.com/contact.html";

@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\wldnist\\Documents\\wldnist\\projects\\revtech\\revtech-mobile-v2\\build\\android_intent\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ca\\values-ca.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\wldnist\\.gradle\\caches\\transforms-3\\8b5357b278d4b97508e80fc038f2716e\\transformed\\core-1.6.0\\res\\values-ca\\values-ca.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\wldnist\\Documents\\wldnist\\projects\\revtech\\revtech-mobile-v2\\build\\android_intent\\intermediates\\merged_res\\debug\\values-ca\\values-ca.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\wldnist\\.gradle\\caches\\transforms-3\\8b5357b278d4b97508e80fc038f2716e\\transformed\\core-1.6.0\\res\\values-ca\\values-ca.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
